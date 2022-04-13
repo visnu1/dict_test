@@ -1,0 +1,9 @@
+{
+  "name": "dict",
+  "short_name": "dict",
+  "theme_color": "#fff9f4",
+  "background_color": "#fff",
+  "display": "standalone",
+  "scope": "./",
+  "start_url": "./"
+}
